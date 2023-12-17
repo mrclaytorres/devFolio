@@ -56,6 +56,9 @@ const skillsSection = {
     ),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
+      "⚡ Develop APIs/API Endpoints for data integration and consumption"
+    ),
+    emoji(
       "⚡ Integration of third party services such as Google Cloud/ AWS / Digital Ocean"
     ),
     emoji(
@@ -137,7 +140,7 @@ const educationInfo = {
       logo: require("./assets/images/xavier-ateneo.png"),
       subHeader: "Bachelor of Science in Computer Science",
       duration: "June 2003 - October 2008",
-      desc: "Member of Computer Enthusiast League (XCEL)",
+      desc: "Member of Xavier Computer Enthusiast League (XCEL)",
       // descBullets: [
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
       //   "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
