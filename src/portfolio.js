@@ -23,7 +23,7 @@ const greeting = {
   username: "Algen Dela Cruz",
   title: "Hi all, I'm Algen",
   subTitle: emoji(
-    "A passionate Full Stack Developer 🚀 having an experience of building Web and Software applications with JavaScript / Reactjs / Nodejs / Python and some other cool libraries and frameworks."
+    "A passionate Full Stack Developer 🚀 with experience building Web and Software applications with JavaScript / Python / PHP / Reactjs / Nodejs and some other cool libraries and frameworks."
   ),
   resumeLink:
     "https://drive.google.com/file/d/1ee80_Ry30JeGUxIQkKDlXTgpG4TRnVdY/view?usp=sharing", // Set to empty to hide the button
@@ -71,20 +71,20 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
-      fontAwesomeClassname: "fab fa-html5"
-    },
-    {
-      skillName: "css3",
-      fontAwesomeClassname: "fab fa-css3-alt"
-    },
-    {
-      skillName: "sass",
-      fontAwesomeClassname: "fab fa-sass"
+      skillName: "python",
+      fontAwesomeClassname: "fab fa-python"
     },
     {
       skillName: "JavaScript",
       fontAwesomeClassname: "fab fa-js"
+    },
+    {
+      skillName: "PHP",
+      fontAwesomeClassname: "fab fa-php"
+    },
+    {
+      skillName: "nodejs",
+      fontAwesomeClassname: "fab fa-node"
     },
     {
       skillName: "reactjs",
@@ -95,8 +95,16 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-vuejs"
     },
     {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
+      skillName: "html-5",
+      fontAwesomeClassname: "fab fa-html5"
+    },
+    {
+      skillName: "css3",
+      fontAwesomeClassname: "fab fa-css3-alt"
+    },
+    {
+      skillName: "sass",
+      fontAwesomeClassname: "fab fa-sass"
     },
     {
       skillName: "npm",
@@ -111,8 +119,8 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-aws"
     },
     {
-      skillName: "python",
-      fontAwesomeClassname: "fab fa-python"
+      skillName: "google cloud api",
+      fontAwesomeClassname: "fab fa-google"
     },
     {
       skillName: "docker",
