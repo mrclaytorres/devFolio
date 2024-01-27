@@ -61,8 +61,12 @@ const skillsSection = {
     emoji(
       "⚡ Integration of third party services such as Google Cloud/ AWS / Digital Ocean"
     ),
+    ,
     emoji(
-      "⚡ Automate processes using Python"
+      "⚡ Design and develop serveless functions, Function as a Service (FaaS)"
+    ),
+    emoji(
+      "⚡ Design and develop Automation processes"
     )
   ],
 
@@ -115,12 +119,12 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "aws",
-      fontAwesomeClassname: "fab fa-aws"
-    },
-    {
       skillName: "google cloud api",
       fontAwesomeClassname: "fab fa-google"
+    },
+    {
+      skillName: "aws",
+      fontAwesomeClassname: "fab fa-aws"
     },
     {
       skillName: "docker",
@@ -168,11 +172,11 @@ const techStack = {
     },
     {
       Stack: "Backend",
-      progressPercentage: "70%"
+      progressPercentage: "90%"
     },
     {
       Stack: "Programming",
-      progressPercentage: "60%"
+      progressPercentage: "80%"
     }
   ],
   displayCodersrank: false // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
