@@ -194,7 +194,7 @@ const workExperiences = {
       date: "June 2020 – Present",
       desc: "Lead a team of Developers that handles the development operations of the company ranging from Website deployment, integration and maintenance.",
       descBullets: [
-        "Tech Stack: JavaScript, NodeJS, PHP, Vite, TailwindCSS, HTML5, CSS3, Twig, CraftCMS, Wordpress"
+        "Tech Stack: JavaScript, NodeJS, Python, PHP, Vite, TailwindCSS, HTML5, CSS3, Twig, CraftCMS, Wordpress"
       ]
     },
     {
@@ -204,7 +204,7 @@ const workExperiences = {
       date: "Oct 2017 – Oct 2020",
       desc: "Part of a team of Developers that handle client projects.",
       descBullets: [
-        "Tech Stack: JavaScript, VueJs, jQuery, Python, Django, Webpack, HTML5, CSS3"
+        "Tech Stack: JavaScript, VueJs, jQuery, Python, Django, Webpack, HTML5, CSS3, Domo BI Tools"
       ]
     },
     {
@@ -214,7 +214,7 @@ const workExperiences = {
       date: "Oct 2013 – Oct 2017",
       desc: "Lead a team of SEO Specialists that handles the daily operations of Search Engine Optimization (On-page/Off-page) of various company clients.",
       descBullets: [
-        "Tools: SEMRush, Ahref, Screaming Frog, Scrapebox"
+        "Tools: SEMRush, Ahref, Screaming Frog, Scrapebox, Market Samurai"
       ]
     }
   ]
