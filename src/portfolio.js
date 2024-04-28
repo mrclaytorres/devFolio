@@ -237,6 +237,7 @@ const bigProjects = {
       image: require("./assets/images/financestrategists-screenshot.jpg"),
       projectName: "FinanceStrategist.com",
       projectDesc: "A website for financial literacy content.",
+      useTechStack: "PHP, JavaScript, Twig, Vite, NodeJS, CraftCMS",
       footerLink: [
         {
           name: "Visit Website",
@@ -249,6 +250,7 @@ const bigProjects = {
       image: require("./assets/images/finlitcoalition-screenshot.jpg"),
       projectName: "FinlitCoalition.org",
       projectDesc: "A website for the Financial Literacy Coalition organization.",
+      useTechStack: "PHP, JavaScript, Twig, Vite, NodeJS, CraftCMS",
       footerLink: [
         {
           name: "Visit Website",
@@ -260,6 +262,7 @@ const bigProjects = {
       image: require("./assets/images/singerspoint-screenshot.jpg"),
       projectName: "SingersPoint.com",
       projectDesc: "A website for a Professional Vocal coach with a 1.2 million Youtube subscriber.",
+      useTechStack: "PHP, JavaScript, Twig, Vite, NodeJS, CraftCMS",
       footerLink: [
         {
           name: "Visit Website",
@@ -271,6 +274,7 @@ const bigProjects = {
       image: require("./assets/images/11financial-screenshot.jpg"),
       projectName: "11 Financial - WorkWith11.com",
       projectDesc: "A website for a Financial Advisor firm.",
+      useTechStack: "PHP, JavaScript, Twig, Vite, NodeJS, CraftCMS",
       footerLink: [
         {
           name: "Visit Website",
@@ -282,6 +286,7 @@ const bigProjects = {
       image: require("./assets/images/choose11-screenshot.jpg"),
       projectName: "11 Financial - Choose11.com",
       projectDesc: "A Wordpress website for a Financial Advisor firm.",
+      useTechStack: "PHP, JavaScript, Elementor, Wordpress",
       footerLink: [
         {
           name: "Visit Website",
