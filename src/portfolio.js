@@ -61,7 +61,6 @@ const skillsSection = {
     emoji(
       "⚡ Integration of third party services such as Google Cloud/ AWS / Digital Ocean"
     ),
-    ,
     emoji(
       "⚡ Design and develop serveless functions, Function as a Service (FaaS)"
     ),
@@ -231,34 +230,67 @@ const openSource = {
 // Some big projects you have worked on
 
 const bigProjects = {
-  title: "Big Projects",
-  subtitle: "SOME STARTUPS AND COMPANIES THAT I HELPED TO CREATE THEIR TECH",
+  title: "Portfolio",
+  subtitle: "MOST RECENT WEBSITES/APPS THAT I HELPED CREATE",
   projects: [
     {
-      image: require("./assets/images/innovuze2.png"),
-      projectName: "Lorem ipsum",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/financestrategists-screenshot.jpg"),
+      projectName: "FinanceStrategist.com",
+      projectDesc: "A website for financial literacy content.",
       footerLink: [
         {
           name: "Visit Website",
-          url: ""
+          url: "https://www.financestrategists.com/"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Nextu",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/finlitcoalition-screenshot.jpg"),
+      projectName: "FinlitCoalition.org",
+      projectDesc: "A website for the Financial Literacy Coalition organization.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://nextu.se/"
+          url: "https://finlitcoalition.org/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/singerspoint-screenshot.jpg"),
+      projectName: "SingersPoint.com",
+      projectDesc: "A website for a Professional Vocal coach with a 1.2 million Youtube subscriber.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://singerspoint.com/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/11financial-screenshot.jpg"),
+      projectName: "11 Financial - WorkWith11.com",
+      projectDesc: "A website for a Financial Advisor firm.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://workwith11.com/"
+        }
+      ]
+    },
+    {
+      image: require("./assets/images/choose11-screenshot.jpg"),
+      projectName: "11 Financial - Choose11.com",
+      projectDesc: "A Wordpress website for a Financial Advisor firm.",
+      footerLink: [
+        {
+          name: "Visit Website",
+          url: "https://choose11.com/"
         }
       ]
     }
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Achievement Section
